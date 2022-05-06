@@ -1,5 +1,5 @@
 # my-hackintosh-efi
-I have Hackintosh-ed my laptop during the holiday due to boredom. This repository has essential EFI that powers my 4-year-old laptop. Enjoy :D
+I have Hackintosh-ed my laptop during the holiday due to boredom. This repository has essential EFI that powers my 4-year-old HP laptop. Enjoy :D
 # Specifications
 1. Processor: Intel Core i5 7200u
 3. RAM: 16GB
